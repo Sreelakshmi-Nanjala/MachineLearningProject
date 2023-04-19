@@ -1,6 +1,6 @@
 # MachineLearningProject
 
-<h3>Dataset</h3> [https://github.com/Sreelakshmi-Nanjala/MachineLearningProject/blob/main/credit_card_churn.csv](https://github.com/Sreelakshmi-Nanjala/MachineLearningProject/blob/main/credit_card_churn.csv)](https://github.com/Sreelakshmi-Nanjala/MachineLearningProject/blob/main/credit_card_churn.csv) <hr>
+<h3>Dataset</h3> [https://github.com/Sreelakshmi-Nanjala/MachineLearningProject/blob/main/credit_card_churn.csv](https://github.com/Sreelakshmi-Nanjala/MachineLearningProject/blob/main/credit_card_churn.csv)]<hr>
 
 <h3>Libraries Used</h3>
 1. Numpy<br>
